@@ -1,6 +1,3 @@
-Crunchbase Take Home Assignment
-===============================
-
 Kunal Kotian, Aug 6, 2018
 
 -------------------
